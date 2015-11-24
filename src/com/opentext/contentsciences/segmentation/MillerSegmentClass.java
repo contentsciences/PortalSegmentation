@@ -1,4 +1,4 @@
-package com.opentext.miller.segmentation;
+package com.opentext.contentsciences.segmentation;
 
 public class MillerSegmentClass {
 	// This is the class used in the segmentation config page as "Type".

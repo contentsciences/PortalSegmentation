@@ -1,4 +1,4 @@
-package com.opentext.miller.segmentation;
+package com.opentext.contentsciences.segmentation;
 
 import javax.portlet.PortletRequest;
 
